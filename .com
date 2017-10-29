@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nekk
 
 You can use the [editor on GitHub](https://github.com/kikhi/Nekk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
