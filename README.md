@@ -8,4 +8,4 @@ Este es un proyecto que hice para la escuela de taekwondo Dinastia jaguar en la 
 Tiene elementos ocultos que son las faltas que puede cometer un peleador en un combate.
 Incluso agrege eventos para que al teclear los puntos se marque de que fue el punto obtenido; puño, peto o careta.
 
-![](Imagen prueba.jpg)
+![](Imagen prueba.JPG)
