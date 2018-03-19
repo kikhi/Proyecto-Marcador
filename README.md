@@ -3,7 +3,7 @@
 
 ### Este es un proyecto que hice para la escuela de taekwondo Dinastia jaguar en la Preparatoria Federal Lazaro Cardenas.
 
-![](image.png wdith = 100)
+![](image.png)
 
 
 ### Tiene elementos ocultos que son las faltas que puede cometer un peleador en un combate.
