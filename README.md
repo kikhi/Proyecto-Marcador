@@ -1,4 +1,4 @@
-#kyorugi
+# kyorugi
 
 Este es un proyecto que hice para la escuela de taekwondo Dinastia jaguar en la Preparatoria Federal Lazaro Cardenas.
 
