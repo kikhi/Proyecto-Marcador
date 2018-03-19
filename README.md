@@ -7,6 +7,6 @@
 
 
 ### Tiene elementos ocultos que son las faltas que puede cometer un peleador en un combate.
-Incluso agrege eventos para que al teclear los puntos se marque de que fue el punto obtenido; puño, peto o careta.
+### Incluso agrege eventos para que al teclear los puntos se marque de que fue el punto obtenido; puño, peto o careta.
 
 ![](prueba.JPG)
