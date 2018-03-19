@@ -1,5 +1,5 @@
 # kyorugi
-###(Kyorugi significa Combate en koreano)
+### (Kyorugi significa Combate en koreano)
 
 Este es un proyecto que hice para la escuela de taekwondo Dinastia jaguar en la Preparatoria Federal Lazaro Cardenas.
 
