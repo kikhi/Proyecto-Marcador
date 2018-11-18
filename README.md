@@ -1,7 +1,8 @@
 # Marcador para Taekwondo - kyorugi
+Realizado para la institución dinastía jaguar a la cual pertenezco, marcador de combate deportivo.
 
-## Descripcion
-Este es un proyecto que hice para la escuela de taekwondo Dinastia jaguar en la Preparatoria Federal Lazaro Cardenas.
+## Notas
+-No conecta controles de consolas externos.
 
 ![](imagen.PNG)
 
